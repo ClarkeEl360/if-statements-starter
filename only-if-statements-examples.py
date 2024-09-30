@@ -8,6 +8,10 @@ if number > 0:
     print("The number is positive.")
 
 # Example 2
+# Remember: The modulus (%) operator finds the remainder
+# (if there is one) in a division problem
+# If you divide a number by two and get a remainder of zero,
+# that means the number was an even number
 number = 10
 if number % 2 == 0:
     print("The number is even.")
