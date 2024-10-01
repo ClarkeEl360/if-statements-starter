@@ -33,8 +33,8 @@ else:
 ```
 
 4. What does the `%` operator do in the conditional test shown above?
-
+# if its a multiple of the number
 
 
 5. How does the code determine if a number is even or odd?
-
+# by seing if its a multiple of 2
